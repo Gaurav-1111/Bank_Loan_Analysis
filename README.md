@@ -1,4 +1,11 @@
 # Bank_Loan_Analysis
+📷 Screenshots 🖼️ Images of Dashboard in action!
+![image](https://github.com/user-attachments/assets/09297a4e-1409-4f11-8da1-86320e2c66f9)
+![image](https://github.com/user-attachments/assets/d6d28888-3524-400e-8550-9adaf1bbe837)
+![image](https://github.com/user-attachments/assets/6f9e2a63-83e9-4694-819e-9a482a547c2a)
+
+
+
 # Dashboard 1: Summary 
 # Key Performance Indicators (KPIs) Requirements:  
 ***Total Loan Applications***: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).  
